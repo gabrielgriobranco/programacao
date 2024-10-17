@@ -12,3 +12,12 @@ footer p {
   font-size: 0.6rem;
   margin-top: 0.5rem;
 }
+
+body {
+  background-color: bisque;
+  font-family: Bai Jamjuree;
+}
+
+#container {
+  display: flex;
+}
