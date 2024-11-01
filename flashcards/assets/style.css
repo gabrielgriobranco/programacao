@@ -1,5 +1,5 @@
 footer {
-  background: url(img/bg-desktop.webp);
+  background: url('img/bg-desktop.webp');
   color: write;
   position: fixed;
   bottom: 0;
