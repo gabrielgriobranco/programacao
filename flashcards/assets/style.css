@@ -31,7 +31,8 @@ body {
 
 .cartao__conteudo {
   text-align: center;
-  background-color: blue;
+  background-color: var(--card-front-color);
+  text-align: center;
   height: 100%;
 }
 
