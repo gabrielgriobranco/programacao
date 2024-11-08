@@ -52,4 +52,8 @@ body {
   font-weight: 700;
 }
 
-
+:root {
+  --text-color: #DBE4EF;
+  --card-front-color: #144480;
+  --card-back-color
+}
